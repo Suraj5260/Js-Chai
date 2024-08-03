@@ -1,0 +1,13 @@
+19.00
+
+Arrays are of 2 types
+-contiguous
+-holey
+
+all languages optimize the arrays in their own way
+
+in js arrays are of many types inside the above 2
+
+-SMI(small integer)
+-Packed element
+-Double(float, string, function)
